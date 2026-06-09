@@ -1,6 +1,6 @@
 ---
 name: fallow
-description: Use Fallow CLI for JavaScript/TypeScript static codebase intelligence: dead code, unused exports, unused dependencies, duplicate code, complexity hotspots, maintainability issues, refactor targets, and Fallow CI/config/debugging.
+description: 'Use Fallow CLI for JavaScript/TypeScript static codebase intelligence: dead code, unused exports, unused dependencies, duplicate code, complexity hotspots, maintainability issues, refactor targets, and Fallow CI/config/debugging.'
 ---
 
 # Fallow CLI Skill
