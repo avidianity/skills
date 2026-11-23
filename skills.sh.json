@@ -8,6 +8,13 @@
             "skills": [
                 "skills/fallow"
             ]
+        },
+        {
+            "title": "Communication",
+            "description": "Skills for writing and explaining clearly",
+            "skills": [
+                "skills/clear-communication"
+            ]
         }
     ]
 }
