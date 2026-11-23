@@ -48,7 +48,7 @@
 > In a six-month review of about 2,000 accounts, early departures correlated with incomplete setup.
 > The pattern makes onboarding the stronger lead compared with pricing, and the cause remains unverified.
 >
-> I recommend piloting a day-14 check-in for customers who have yet to complete onboarding.
+> One option is to pilot a day-14 check-in for customers who have yet to complete onboarding.
 
 ## Informational update: no action required
 
