@@ -11,6 +11,7 @@ For the Agent Skills standard, see [agentskills.io](https://agentskills.io).
 
 ## Repository Contents
 
+- [skills/clear-communication](./skills/clear-communication): Write or revise messages, reports, and explanations that lead with the main point and preserve essential detail.
 - [skills/fallow](./skills/fallow): Use Fallow CLI for JavaScript and TypeScript static codebase intelligence, including dead code, unused exports, unused dependencies, duplicate code, complexity hotspots, maintainability issues, refactor targets, and Fallow CI/config/debugging.
 - [template](./template): Starter `SKILL.md` template for creating a new skill.
 - [spec](./spec): Pointer to the Agent Skills specification.
